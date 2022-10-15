@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "671896343206",
-    "project_id": "kotlin-delivery",
-    "storage_bucket": "kotlin-delivery.appspot.com"
+    "project_number": "165987258030",
+    "project_id": "kotlindeliv",
+    "storage_bucket": "kotlindeliv.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:671896343206:android:9b077dc63836d62bd11a67",
+        "mobilesdk_app_id": "1:165987258030:android:aca1549672d3417841e73f",
         "android_client_info": {
           "package_name": "com.optic.kev"
         }
       },
       "oauth_client": [
         {
-          "client_id": "671896343206-ijeor3qgcvem3k9fom52rdh4gjk5pef1.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.optic.kev",
-            "certificate_hash": "b92ab5faab63ea9ece99d68dc56bf173571ef7af"
-          }
-        },
-        {
-          "client_id": "671896343206-ctf6jgclqturuds78ja2v0ra13e9j55r.apps.googleusercontent.com",
+          "client_id": "165987258030-5oa3g8a00hpd1ebor1qjc0c1bl7al743.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAVUy3Pcqj6eeLAidBArrQ_jXZnFeWKzCM"
+          "current_key": "AIzaSyADohVBVKbkbaeIH7MvJXM8ustRTEvaFP0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "671896343206-ctf6jgclqturuds78ja2v0ra13e9j55r.apps.googleusercontent.com",
+              "client_id": "165987258030-5oa3g8a00hpd1ebor1qjc0c1bl7al743.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

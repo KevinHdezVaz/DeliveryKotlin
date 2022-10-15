@@ -87,7 +87,7 @@ class ClientAddressCreateActivity : AppCompatActivity() {
 
             val addressModel = Address(
                 address = address,
-                neighborhood = neighborhood,
+                neightborhood = neighborhood,
                 idUser = user?.id!!,
                 lat = addressLat,
                 lng = addressLng

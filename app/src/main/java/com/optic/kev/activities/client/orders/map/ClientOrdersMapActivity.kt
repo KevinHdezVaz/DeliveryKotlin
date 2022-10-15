@@ -143,7 +143,7 @@ class ClientOrdersMapActivity : AppCompatActivity(), OnMapReadyCallback {
 
         textViewClient?.text = "${order?.delivery?.name} ${order?.delivery?.lastname}"
         textViewAddress?.text = order?.address?.address
-        textViewNeighborhood?.text = order?.address?.neighborhood
+        textViewNeighborhood?.text = order?.address?.neightborhood
 
         if (!order?.client?.image.isNullOrBlank()) {
             Glide.with(this).load(order?.client?.image).into(circleImageUser!!)

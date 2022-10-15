@@ -52,7 +52,7 @@ class AddressAdapter(val context: Activity, val address: ArrayList<Address>): Re
         }
 
         holder.textViewAddress.text = a.address
-        holder.textViewNeighborhood.text = a.neighborhood
+        holder.textViewNeighborhood.text = a.neightborhood
 
         holder.itemView.setOnClickListener {
 
